@@ -20,3 +20,11 @@ Bu projede Html ve Css kullanarak responsive bir web sitesi yapılmıştır.
   <li>Visual Studio Code</li>
  
 </ul>
+
+# Proje Gifi
+![Adsız tasarım](https://github.com/mehmet-adgzl22/udemig-project-/assets/169144147/9fb83ad2-33e3-40aa-8948-1bf0777b784f)
+
+
+
+
+
