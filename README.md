@@ -12,8 +12,6 @@ Bu projede Html ve Css kullanarak responsive bir web sitesi yapılmıştır.
               
 </ul>
 
-https://udemig-project-11hs.netlify.app/
-
 # Projede Kullanılan Diller ve Araçlar
 
 <ul>
@@ -21,6 +19,7 @@ https://udemig-project-11hs.netlify.app/
   <li>Css</li>
   <li>Visual Studio Code</li>
 </ul>
+
 # Proje Bağlantı Linki
 https://udemig-project-11hs.netlify.app/
 
